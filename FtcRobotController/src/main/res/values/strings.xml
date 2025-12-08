@@ -65,8 +65,26 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
       <item>@style/AppThemeTealRC</item>
   </integer-array>
 
-  <string translatable="false" name="pref_ftc_season_year_of_current_rc">pref_ftc_season_year_of_current_rc_new</string>
+  <string translatable="false" name="pref_ftc_season_year_of_current_rc">FTC season year of current RC</string>
 
   <string name="packageName">@string/packageNameRobotController</string>
+
+    <string name="permAccessLocationExplain">Permission needed to access location.</string>
+    <string name="permReadPhoneState">Permission needed to read phone state.</string>
+    <string name="permGenericExplain">Generic permission explanation.</string>
+    <string name="pref_rc_connected">RC Connected</string>
+    <string name="pref_warn_about_2_4_ghz_band">Warn about 2.4 GHz band</string>
+    <string name="pref_warn_about_obsolete_software">Warn about obsolete software</string>
+    <string name="pref_warn_about_mismatched_app_versions">Warn about mismatched app versions</string>
+    <string name="pref_warn_about_incorrect_clocks">Warn about incorrect clocks</string>
+    <string name="pref_wifi_automute">WiFi Auto Mute</string>
+    <string name="pref_pairing_kind">Pairing Kind</string>
+    <string name="toastRobotSetupComplete">Robot setup complete.</string>
+    <string name="toastRestartRobotComplete">Robot restart complete.</string>
+    <string name="pref_app_theme">App Theme</string>
+    <string name="appThemeChangeRestartNotifyRC">App theme change requires restart.</string>
+    <string name="permRcWriteExternalStorageExplain">Permission needed to write external storage.</string>
+    <string name="permRcReadExternalStorageExplain">Permission needed to read external storage.</string>
+    <string name="permRcCameraExplain">Permission needed to access camera.</string>
 
 </resources>
